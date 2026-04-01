@@ -32,7 +32,7 @@ I'm passionate about creating beautiful experiences that solve real problems. Al
 </tr></table>
 
 ```
-> Thanks for stopping by. Go star my work, or if you're feeling nice, contribute. :) █
+> Thanks for stopping by. Go ⭐ my work, or if you're feeling nice, contribute. :) █
 ```
 
 <p align="center">
