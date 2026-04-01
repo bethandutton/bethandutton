@@ -25,9 +25,9 @@ I'm passionate about creating beautiful experiences that solve real problems. Al
 - ✨ Bridging the gap between design and development
 - 💬 Always up for a chat — hit me up if you've got something cool
 
-<table align="center"><tr>
-<td><img src="./hello.gif" height="155" /></td>
-<td><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bethandutton&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true" height="155" alt="spotify-github-profile" /></a></td>
+<table width="100%" cellspacing="0" cellpadding="0" style="border:none;"><tr>
+<td align="center" style="border:none;"><img src="./hello.gif" height="155" /></td>
+<td align="center" style="border:none;"><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bethandutton&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true" height="155" alt="spotify-github-profile" /></a></td>
 </tr></table>
 
 ```
