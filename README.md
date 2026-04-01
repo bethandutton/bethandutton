@@ -43,8 +43,6 @@
 │  ✨ Bridging the gap between design and development               │
 │  💬 Always up for a chat — hit me up if you've got something cool │
 │                                                                  │
-├──────────────────────────────────────────────────────────────────┤
-│ bethan@github:~$ now_playing                                     │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
