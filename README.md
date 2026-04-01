@@ -31,6 +31,14 @@ I'm passionate about creating **beautiful experiences** that solve real problems
 - ✨ Bridging the gap between design and development
 - 💬 Always up for a chat — hit me up if you've got something cool
 
+## 🎵 Now Playing
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bethandutton&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=light&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20views-28,492-blueviolet?style=flat-square" alt="Profile views" />
 </p>
