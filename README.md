@@ -8,22 +8,28 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Lleverage**
-- 🌱 Always learning and building
-- 💬 Ask me about anything tech related
+**Computer Science grad turned designer turned design leader turned... back to code again.**
+
+I went from Junior → Senior → Lead → Head of Design, and now I'm finding my way back into front-end development. Vibe coding tools help me bring my design ideas to life in actual code, and I love every second of it.
+
+I'm passionate about creating **beautiful experiences** that solve real problems. Also, I'm probably funnier than my commit history suggests. 😄
+
+- 🎨 Head of Design by day, front-end tinkerer by night
+- 🔭 Currently building **Lleverage**
+- ✨ Bridging the gap between design and development
+- 💬 Always up for a chat — hit me up if you've got something cool
 
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ## 📊 GitHub Stats
