@@ -23,8 +23,8 @@ I'm passionate about creating beautiful experiences that solve real problems. Al
 - 🎨 Head of Design by day, front-end tinkerer by night
 - 🔭 Currently building **Lleverage AI**
 - ✨ Bridging the gap between design and development
-- 💬 Always up for a chat — hit me up if you've got something cool
 - 🌱 Trying to touch some grass
+- 💬 Always up for a chat — hit me up if you've got something cool
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border:none;"><tr>
 <td align="center" style="border:none;"><img src="./hello.gif" height="155" /></td>
