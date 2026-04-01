@@ -46,9 +46,7 @@
 
 <p align="center">
   <img src="./hello.gif" width="300" />
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bethandutton&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=light&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
   </a>
