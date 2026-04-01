@@ -7,7 +7,7 @@
 ║   ██   ██ ██         ██    ██   ██ ██   ██ ██  ██ ██             ║
 ║   ██████  ███████    ██    ██   ██ ██   ██ ██   ████             ║
 ║                                                                  ║
-║   > Head of Design _ Front-end Tinkerer _ Vibe Coder             ║
+║   > Head of Design _ Front-end Tinkerer _ AI-powered             ║
 ║   > Currently building: Lleverage                                ║
 ║   > Status: Online ██████████████████████████████ 100%           ║
 ║                                                                  ║
@@ -28,7 +28,7 @@
 
 **Computer Science grad turned designer turned design leader turned... back to code again.**
 
-I went from Junior → Senior → Lead → Head of Design, and now I'm finding my way back into front-end development. Vibe coding tools help me bring my design ideas to life in actual code, and I love every second of it.
+I went from Junior → Senior → Lead → Head of Design, and now I'm finding my way back into front-end development. I use AI tools to speed up productivity and bring my design ideas to life in actual code.
 
 I'm passionate about creating **beautiful experiences** that solve real problems. Also, I'm probably funnier than my commit history suggests. 😄 *(It's Bethan, pronounced "be-th-an" 🏴󠁧󠁢󠁷󠁬󠁳󠁿)*
 
