@@ -18,7 +18,7 @@ Computer Science diploma, Design Communications degree, then straight into the d
 
 I use AI tools to speed up productivity and bring my design ideas to life in actual code.
 
-I'm passionate about creating beautiful experiences that solve real problems. Also, I'm probably funnier than my commit history suggests. *(It's Bethan, pronounced "be-th-an" — and no, it's not a Welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿 name before you ask)*
+I'm passionate about creating beautiful experiences that solve real problems. Also, I'm probably funnier than my commit history suggests. *(It's Bethan, pronounced "be-th-an" — yes it's a Welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿 name but I'm from the Midlands 🏴󠁧󠁢󠁥󠁮󠁧󠁿, currently working in the Netherlands 🇳🇱)*
 
 - 🎨 Head of Design by day, front-end tinkerer by night
 - 🔭 Currently building **Lleverage AI**
