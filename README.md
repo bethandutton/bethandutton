@@ -32,7 +32,7 @@ I'm passionate about creating **beautiful experiences** that solve real problems
 - 💬 Always up for a chat — hit me up if you've got something cool
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20views-7,429-blueviolet?style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Profile%20views-28,492-blueviolet?style=flat-square" alt="Profile views" />
 </p>
 
 ---
