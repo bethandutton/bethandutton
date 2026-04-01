@@ -18,12 +18,6 @@
   <img src="./hello.gif" width="300" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/bethandutton">
-    <img src="https://komarev.com/ghpvc/?username=bethandutton&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
-  </a>
-</p>
-
 ## 🚀 About Me
 
 **Computer Science grad turned designer turned design leader turned... back to code again.**
@@ -36,6 +30,10 @@ I'm passionate about creating **beautiful experiences** that solve real problems
 - 🔭 Currently building **Lleverage AI**
 - ✨ Bridging the gap between design and development
 - 💬 Always up for a chat — hit me up if you've got something cool
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20views-7,429-blueviolet?style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
