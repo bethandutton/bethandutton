@@ -60,5 +60,8 @@
 
 ```
 > Thanks for stopping by. Now go build something cool. █
-> Profile views: 28,492
 ```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20views-28,492-blueviolet?style=flat-square" alt="Profile views" />
+</p>
