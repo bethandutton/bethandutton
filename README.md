@@ -9,7 +9,7 @@
 ║                                                                  ║
 ║   > Head of Design _ Front-end Tinkerer _ AI-powered             ║
 ║   > Currently building: Lleverage AI                             ║
-║   > Status: Online ██████████████████████████████ 100%           ║
+║   > Status: Online █████████████████████████████░ 99.9%          ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
