@@ -14,10 +14,6 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<p align="center">
-  <img src="./hello.gif" width="300" />
-</p>
-
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │ bethan@github:~$ cat about_me.txt                                │
@@ -51,6 +47,10 @@
 │ bethan@github:~$ now_playing                                     │
 └──────────────────────────────────────────────────────────────────┘
 ```
+
+<p align="center">
+  <img src="./hello.gif" width="300" />
+</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
