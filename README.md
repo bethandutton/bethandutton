@@ -32,7 +32,7 @@ I'm passionate about creating beautiful experiences that solve real problems. Al
 </tr></table>
 
 ```
-> Thanks for stopping by. Now go fork something. █
+> Thanks for stopping by. Now go fork my work. █
 ```
 
 <p align="center">
