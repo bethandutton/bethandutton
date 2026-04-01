@@ -8,7 +8,7 @@
 ║   ██████  ███████    ██    ██   ██ ██   ██ ██   ████             ║
 ║                                                                  ║
 ║   > Head of Design _ Front-end Tinkerer _ AI-powered             ║
-║   > Currently building: Lleverage                                ║
+║   > Currently building: Lleverage AI                             ║
 ║   > Status: Online ██████████████████████████████ 100%           ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
@@ -33,7 +33,7 @@ I went from Junior → Senior → Lead → Head of Design, and now I'm finding m
 I'm passionate about creating **beautiful experiences** that solve real problems. Also, I'm probably funnier than my commit history suggests. 😄 *(It's Bethan, pronounced "be-th-an" 🇬🇧 — and no, it's not a Welsh name before you ask)*
 
 - 🎨 Head of Design by day, front-end tinkerer by night
-- 🔭 Currently building **Lleverage**
+- 🔭 Currently building **Lleverage AI**
 - ✨ Bridging the gap between design and development
 - 💬 Always up for a chat — hit me up if you've got something cool
 
