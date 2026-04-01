@@ -1,4 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Bethan%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██████  ███████ ████████ ██   ██  █████  ███    ██             ║
+║   ██   ██ ██         ██    ██   ██ ██   ██ ████   ██             ║
+║   ██████  █████      ██    ███████ ███████ ██ ██  ██             ║
+║   ██   ██ ██         ██    ██   ██ ██   ██ ██  ██ ██             ║
+║   ██████  ███████    ██    ██   ██ ██   ██ ██   ████             ║
+║                                                                  ║
+║   > Head of Design _ Front-end Tinkerer _ Vibe Coder             ║
+║   > Currently building: Lleverage                                ║
+║   > Status: Online ██████████████████████████████ 100%           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 <p align="center">
   <img src="./hello.gif" width="300" />
@@ -25,6 +39,6 @@ I'm passionate about creating **beautiful experiences** that solve real problems
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</p>
+```
+> Thanks for stopping by. Now go build something cool. █
+```
