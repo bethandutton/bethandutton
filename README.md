@@ -35,7 +35,3 @@ If you didn't read the above, here is some highlights:
 ```
 > Thanks for stopping by. Go ⭐ my work, or if you're feeling nice, contribute. :) █
 ```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20views-28,492-blueviolet?style=flat-square" alt="Profile views" />
-</p>
