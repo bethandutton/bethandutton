@@ -20,6 +20,7 @@ I use AI tools to speed up productivity and bring my design ideas to life in act
 
 I'm passionate about creating beautiful experiences that solve real problems. Also, I'm probably funnier than my commit history suggests. Oh and people can never say my name — it's Bethan, pronounced "be-th-an". Yes it's Welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿, no I'm not.
 
+If you didn't read the above, here is some highlights:
 - 🎨 Head of Design by day, front-end tinkerer by night
 - 🔭 Currently building **Lleverage AI**
 - ✨ Bridging the gap between design and development
