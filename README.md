@@ -27,10 +27,7 @@ If you didn't read the above, here is some highlights:
 - 🌱 Trying to touch some grass
 - 💬 Always up for a chat — hit me up if you've got something cool
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border:none;"><tr>
-<td align="center" style="border:none;"><img src="./hello.gif" height="155" /></td>
-<td align="center" style="border:none;"><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bethandutton&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true" height="155" alt="spotify-github-profile" /></a></td>
-</tr></table>
+<img src="./hello.gif" height="155" />
 
 ```
 > Thanks for stopping by. Go ⭐ my work, or if you're feeling nice, contribute. :) █
